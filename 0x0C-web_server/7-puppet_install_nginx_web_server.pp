@@ -38,4 +38,3 @@ class nginx_server {
 }
 #  includes the nginx_server class, ensuring that it gets applied.
 include nginx_server
-
